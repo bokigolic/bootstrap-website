@@ -96,6 +96,22 @@ a.active, a:hover{
 }
 
 
+.bg-dark {
+    opacity: 0.9;
+} 
+
+
+.text-white{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
 @media (max-width: 740px){
     .checkbtn{
         display:block;
