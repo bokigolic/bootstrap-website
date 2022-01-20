@@ -1,7 +1,3 @@
-/*
-Author: Bojan Golic
-*/
-
 (function($) {
 
 	"use strict";
